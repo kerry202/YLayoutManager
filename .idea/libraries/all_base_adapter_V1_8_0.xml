@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="all-base-adapter-V1.8.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/6826852c318bf3d1fb724b900996f5585ead11cd/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/6826852c318bf3d1fb724b900996f5585ead11cd/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
